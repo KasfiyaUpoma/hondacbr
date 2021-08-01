@@ -426,7 +426,7 @@ li{
     border: 6px solid white;
     border-radius: 6rem;
     width: 11%;
-    margin-top: -3%;
+    margin-top: -5%;
 }
 @media (max-width:760px) {
     .contact-image img{
